@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cmsis_os.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "main.h": "c",
+        "st7789.h": "c",
+        "string.h": "c"
+    }
+}
